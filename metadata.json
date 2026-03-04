@@ -1,0 +1,8 @@
+{
+  "name": "Nabila Prompt Generator",
+  "description": "Professional AI Prompt Engineering \u0026 Content Generation Suite",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
